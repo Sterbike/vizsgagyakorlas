@@ -1,0 +1,10 @@
+C:\Users\hodir\source\repos\VizsgagyakB_asztali\VizsgagyakB_asztali\bin\Debug\VizsgagyakB_asztali.exe.config
+C:\Users\hodir\source\repos\VizsgagyakB_asztali\VizsgagyakB_asztali\bin\Debug\VizsgagyakB_asztali.exe
+C:\Users\hodir\source\repos\VizsgagyakB_asztali\VizsgagyakB_asztali\bin\Debug\VizsgagyakB_asztali.pdb
+C:\Users\hodir\source\repos\VizsgagyakB_asztali\VizsgagyakB_asztali\obj\Debug\VizsgagyakB_asztali.csproj.AssemblyReference.cache
+C:\Users\hodir\source\repos\VizsgagyakB_asztali\VizsgagyakB_asztali\obj\Debug\VizsgagyakB_asztali.Form1.resources
+C:\Users\hodir\source\repos\VizsgagyakB_asztali\VizsgagyakB_asztali\obj\Debug\VizsgagyakB_asztali.Properties.Resources.resources
+C:\Users\hodir\source\repos\VizsgagyakB_asztali\VizsgagyakB_asztali\obj\Debug\VizsgagyakB_asztali.csproj.GenerateResource.cache
+C:\Users\hodir\source\repos\VizsgagyakB_asztali\VizsgagyakB_asztali\obj\Debug\VizsgagyakB_asztali.csproj.CoreCompileInputs.cache
+C:\Users\hodir\source\repos\VizsgagyakB_asztali\VizsgagyakB_asztali\obj\Debug\VizsgagyakB_asztali.exe
+C:\Users\hodir\source\repos\VizsgagyakB_asztali\VizsgagyakB_asztali\obj\Debug\VizsgagyakB_asztali.pdb

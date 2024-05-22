@@ -1,0 +1,7 @@
+C:\Users\hodir\source\repos\VizsgagyakB\VizsgagyakB\bin\Debug\VizsgagyakB.exe.config
+C:\Users\hodir\source\repos\VizsgagyakB\VizsgagyakB\bin\Debug\VizsgagyakB.exe
+C:\Users\hodir\source\repos\VizsgagyakB\VizsgagyakB\bin\Debug\VizsgagyakB.pdb
+C:\Users\hodir\source\repos\VizsgagyakB\VizsgagyakB\obj\Debug\VizsgagyakB.csproj.AssemblyReference.cache
+C:\Users\hodir\source\repos\VizsgagyakB\VizsgagyakB\obj\Debug\VizsgagyakB.csproj.CoreCompileInputs.cache
+C:\Users\hodir\source\repos\VizsgagyakB\VizsgagyakB\obj\Debug\VizsgagyakB.exe
+C:\Users\hodir\source\repos\VizsgagyakB\VizsgagyakB\obj\Debug\VizsgagyakB.pdb
